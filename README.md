@@ -1,6 +1,6 @@
-# vue-project
+# Comments-with-GraphQL (vue-project)
 
-This template should help get you started developing with Vue 3 in Vite.
+This project was developed with Vue 3 in Vite.
 
 ![preview](src/assets/img/preview.jpg)
 
