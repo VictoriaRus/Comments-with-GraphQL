@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-![preview](/assets/img/preview.jpg)
+![preview](src/assets/img/preview.jpg)
 
 ## Recommended IDE Setup
 
